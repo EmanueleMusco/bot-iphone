@@ -1,0 +1,24 @@
+{
+  "name": "bot-iphone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanueleMusco/bot-iphone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanueleMusco/bot-iphone/issues"
+  },
+  "homepage": "https://github.com/EmanueleMusco/bot-iphone#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.2.2"
+  }
+}
